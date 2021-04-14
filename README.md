@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhouaiss
+- 👋 Hi, I’m Hassan from Paris 🇫🇷
 - 👀 I’m interested in JS, Blockchain & creating busnisses
 - 🌱 I’m currently learning JS & Blockchain
 - 💞️ I’m looking to collaborate on Blockchain projects
